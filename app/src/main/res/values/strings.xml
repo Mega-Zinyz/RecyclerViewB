@@ -17,6 +17,7 @@
     <string name="tahun_masuk">Tahun Masuk</string>
     <string name="tahun_masuk_hint">Tahun anda mendaftarkan diri anda di kampus</string>
     <string name="simpan">Simpan</string>
+    <string name="searchbar_hint">Cari</string>
 
     <string-array name="jenisKelaminArray">
         <item>Laki-Laki</item>
